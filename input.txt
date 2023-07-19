@@ -1,0 +1,7 @@
+def greet):
+  a + 2
+  c + 
+2 + 2
+if number > 0:
+  a + b
+c =
